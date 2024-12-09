@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nutripal-4bd4e",
+  "private_key_id": "d6a96c73156ebf49b55b6f1fffd3e7090d40a67e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBu/TD1c86ZTET\nE2KYENFF7b9N9mLbHlS+ANwkbXgrxSQXdgWcktsYOmFuRkQs9jcUmkK1/4Tz30+w\nmrUiUtuTxtnxB3MCPbIny1EBCq4++eeoFUASJTrmdUd9BjJ84t+GUMAbYmuxPPjd\n2JC4JBPE5Xhsr3vgsZxrj+ftAaQZV9Iz2jq4VSzN5i7zw9aXdWStGRHdeQIdDoNr\nyz4VKfnHLvciQ6tF2cZqP2HDuGOl6idAa56HPW1lmDXa0VbEAnhdw9oid3bZsZmo\nuEfB/ZBAoJm4r9L2eSNQJhJ01M0Sjjws+XN0kOd6YxeVY6p1o2t7AEUsojKOiO08\nCXlJjFMlAgMBAAECgf9yfZm1sY6A3RQbuYmxJj8qh4wEW2bDtmPyvLMzqvjXIpNI\nxQORFmGxPyESnEXmVpuNjtn3cfgoHQuICLJ41lreIK3FSzOfrDeVPYWzgNxfN3S8\nqsgMGiKEPZKeEEuDcynJuVqG1He2tLq6dNOhHcV8nqUUENQX1I0FN0EyZor88z9v\nDn1MGs+V9fL+5+Q3R68kYZpi6GNVwu35o2uYwFFVI4MSCFHgIOkS7V+oJ+XZwjP0\nLYnV+rhF5I6lDc4oyPGoKBrlBF4PMmA+vh5Mr1QUNxZIOeCryOcJQFRnwiZRJjos\n8Kn4IPj5SQjwcBPismTQQ96/2AMXD7A47R39AxECgYEA+F9rFH4SWyes6x+NqMpk\nO5+DSKHT8UH0aaX2L8m48yajP/EIh4Wv1qg/fi7y0A8mfl+9kgNR2UPVTdNKuC3Z\nHHzo0JoKNjwS0NIH46Cvh5FeMchAvXNis1+Y6DsOyVqsSdNSOicFBYXrbnh3tX52\nZdJhI5Sn7QxkSRQLSbhbXxUCgYEAx67/RzNITfN/8/vqxCAhYzlvgGziR3SpiI+w\nJD/zDrWADJhBmmNe+Wpiw2g4H+wE3iQtSsdfI/Uix/wi0YfYibb1Ma9GLZXhU44V\nLz9vl4sXwSs/HO2rfVtIm4S8xGPnl1cNRrBLJ/y6hKyT3uULsEYgHWxmKIQRA+x5\nNA95p9ECgYEAj+3rhZKRXJWfVRmR49B1ST/kukBdK5/G3To5cfP5453uWG17Pd2w\nyjnxoVPfjcZZzj35AxY9ZiQzBch9skGPYTzZRZkeddNWLACqZbSGQ49wAHVFXwPw\nnHW3jEw9A14yHQ4CxoQ6GrtCdWAGLvy768GAXTgWH/5gVyDwcaYN/QkCgYEAsPW9\n13x0BFjZuQA0snCDBisdTGOyOH8DyzkDcWyW2x8wBnlcEhUkUsbcFa4jpu6D9dV7\nqfx7rSMOGsqwlJ3d4VWZf9mDyNw9ns2YqpF+NH+YoqDPwrRBuMsP0nrUyvp6f90u\nr8mGIT7QkMlcFjlHnYTX6xtogVlgtuh3FRLtzjECgYEA87o48UYLteGtJ52IX0YB\ntj2QtMUpL7OJLjtnpmfu39h/XT7EAef7M0gVruylIHMjhBUPpmTAn+4pFnQppxyU\ntfXDaP4w/7W2uaS3QWC+7e6o7dVcVc8/DYcx51e33R5q5u7zLpy6CB6QSFnZoE9L\n+PEbShe/Lg7UGEf4mS4CFn8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vertex-ai-api@nutripal-4bd4e.iam.gserviceaccount.com",
+  "client_id": "108566783046252012588",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vertex-ai-api%40nutripal-4bd4e.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
