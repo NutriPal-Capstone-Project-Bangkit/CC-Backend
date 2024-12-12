@@ -1,0 +1,22 @@
+{
+    "name": "firebase-profile-api",
+    "version": "1.0.0",
+    "description": "A Node.js Profile API with Firebase Admin SDK and Express",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "dev": "nodemon app.js"
+    },
+    "author": "Rafi",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.20.3",
+        "cors": "^2.8.5",
+        "express": "^4.21.2",
+        "firebase-admin": "^11.11.1",
+        "multer": "^1.4.5-lts.1"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    }
+}
