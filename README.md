@@ -2,7 +2,7 @@
 
  <h1>API Docs</h1>
 
-[![Run in Postman](https://run.pstmn.io/button.svg)]
+![Run in Postman](https://run.pstmn.io/button.svg)
 
 ---
 
@@ -88,7 +88,7 @@ Base URL:
 
  <h1>API Docs</h1>
 
-[![Run in Postman](https://run.pstmn.io/button.svg)]
+![Run in Postman](https://run.pstmn.io/button.svg)
 
 ---
 
@@ -183,7 +183,7 @@ Base URL:
 
  <h1>API Docs</h1>
 
-[![Run in Postman](https://run.pstmn.io/button.svg)]
+![Run in Postman](https://run.pstmn.io/button.svg)
 
 ---
 
